@@ -1,2 +1,2 @@
-# Javascript-Day-1-Training
-This repository contains Assignment 1 tasks.
+# .NET Training Assignments
+This repository contains all the assignments related to .NET Training.
